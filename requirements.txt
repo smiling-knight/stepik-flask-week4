@@ -1,0 +1,5 @@
+flask==1.1.2
+Flask-WTF==0.14.3
+flask-SQLAlchemy
+Flask-Migrate
+gunicorn
